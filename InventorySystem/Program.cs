@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using Pomelo.EntityFrameworkCore.MySql;
 using InventoryManagementSystem.Data;
 
 var builder = WebApplication.CreateBuilder(args);
